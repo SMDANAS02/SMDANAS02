@@ -99,4 +99,3 @@ Aug 2025 – Present
 * Active member of **Event Organisation Student Club**
 * Participate in organizing **technical workshops and hackathons**
 * Member of **College Table Tennis Club**
-* 
