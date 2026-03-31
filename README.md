@@ -1,10 +1,3 @@
-Your content is strong, but it **looks messy because GitHub README works best when it is structured, shorter, and sectioned clearly**.
-I'll keep **your same information**, but format it **cleaner and more professional** so it looks good on your GitHub profile.
-
-You can **copy-paste this directly into your `README.md`**.
-
----
-
 # Mohamed Anas S
 
 **Backend & Software Developer**
